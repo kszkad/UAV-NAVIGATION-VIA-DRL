@@ -4,13 +4,13 @@ This project is the open-source implementation of the paper titled "A Hierarchic
 ## Project Structure
 ├── video/               # Directory for datasets  
 ├── code/                # Source code  
-├── requirements.txt     # Dependencies required for the project  
+├── environment.yml     # Dependencies required for the project  
 ├── LICENSE              # License file  
 └── README.md            # Project documentation  
 ## Environment Requirements
 ## Installation and Usage
 ### Environment Setup
-pip install -r requirements.txt
+conda env create -f environment.yml -n drl
 ### Usage
 python train.py
 
