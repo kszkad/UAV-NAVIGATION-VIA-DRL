@@ -1,4 +1,4 @@
-# A Hierarchical Navigation Framework for UAVs Based on Visual Guidance and Deep Reinforcement Learning in Unstructured Environments
+# A Hierarchical Navigation Framework Implementation
 ## Project Introduction
 This project is the open-source implementation of the paper titled "A Hierarchical Navigation Framework for UAVs Based on Visual Guidance and Deep Reinforcement Learning in Unstructured Environments"
 ## Project Structure
@@ -9,9 +9,9 @@ This project is the open-source implementation of the paper titled "A Hierarchic
 └── README.md            # Project documentation  
 ## Environment Requirements
 ## Installation and Usage
- ### Environment Setup
+### Environment Setup
 pip install -r requirements.txt
- ### Usage
+### Usage
 python train.py
 Note: Since the paper is currently under review, the complete code will be made publicly available after the paper is officially published. Stay tuned!
 ## LICENSE
