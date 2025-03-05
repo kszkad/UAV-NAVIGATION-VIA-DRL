@@ -2,7 +2,7 @@
 ## Project Introduction
 This project is the open-source implementation of the paper titled "A Hierarchical Navigation Framework for UAVs Based on Visual Guidance and Deep Reinforcement Learning in Unstructured Environments"
 ## Project Structure
-├── video/               # Directory for datasets  
+├── video/               # Directory for vedio
 ├── code/                # Source code  
 ├── environment.yml     # Dependencies required for the project  
 ├── LICENSE              # License file  
