@@ -13,6 +13,7 @@ This project is the open-source implementation of the paper titled "A Hierarchic
 pip install -r requirements.txt
 ### Usage
 python train.py
+
 Note: Since the paper is currently under review, the complete code will be made publicly available after the paper is officially published. Stay tuned!
 ## LICENSE
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
