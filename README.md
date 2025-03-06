@@ -1,6 +1,6 @@
 # A Hierarchical Navigation Framework Implementation
 ## Project Introduction
-This project is the open-source implementation of the paper titled "A Hierarchical Navigation Framework for UAVs Based on Visual Guidance and Deep Reinforcement Learning in Unstructured Environments"
+This project is the open-source implementation of the paper titled "A Hierarchical Navigation Framework for UAVs"
 ## Project Structure
 ├── video/               # Directory for vedio  
 ├── code/                # Source code  
